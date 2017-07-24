@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="jsraw" type="PLAIN_TEXT" />
+      <mapping ext="dmg" type="PLAIN_TEXT" />
       <mapping ext="jsstr" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
