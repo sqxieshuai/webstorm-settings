@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping ext="jsraw" type="PLAIN_TEXT" />
       <mapping ext="dmg" type="PLAIN_TEXT" />
       <mapping ext="jsstr" type="PLAIN_TEXT" />
