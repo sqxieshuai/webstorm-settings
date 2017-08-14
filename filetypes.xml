@@ -8,6 +8,7 @@
       <mapping ext="dmg" type="PLAIN_TEXT" />
       <mapping ext="jsstr" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext="m" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
