@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".postcssrc" type="PLAIN_TEXT" />
-      <mapping ext="jsraw" type="PLAIN_TEXT" />
       <mapping ext="dmg" type="PLAIN_TEXT" />
-      <mapping ext="jsstr" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
-      <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="jsraw" type="PLAIN_TEXT" />
+      <mapping ext="jsstr" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
