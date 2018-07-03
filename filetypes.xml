@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="gitignore" type="PLAIN_TEXT" />
+      <mapping pattern="eslintrc" type="PLAIN_TEXT" />
       <mapping pattern=".estlintignore" type="PLAIN_TEXT" />
       <mapping ext="dmg" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
