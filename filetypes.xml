@@ -7,6 +7,7 @@
       <mapping pattern=".estlintignore" type="PLAIN_TEXT" />
       <mapping ext="dmg" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="pdb" type="PLAIN_TEXT" />
       <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
